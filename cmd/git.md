@@ -1,8 +1,27 @@
 # gitの使い方
 
+
+
 ## 基本操作
 
-
+## 初期設定
+### インストール
+```bash
+sudo apt install git gh
+```
+### 公開鍵の作成
+```bash
+ssh-keygen -t ed25519 -f ~/.ssh/ed25519_github -C "your_email@example.com"
+```
+- `-t ed25519` 鍵の種類
+- `-C "email"` 鍵のコメント
+- `-f ~/.ssh/ed25519_github` 鍵の保存場所
+- パスフレーズはつけよう
+ 
+## ghで登録
+```bash 
+gh auth login
+```
 
 
 
@@ -28,3 +47,6 @@ gh repo create <repo-name> --public --source=. --remote=origin
 ```bash
 git push -u origin main
 ```
+
+## コミットメッセージ
+- このリポジトリでの書き方は[`commit-message-guideline.md`](../commit-message-guideline.md)を参照
