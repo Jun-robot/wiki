@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "blender/blende.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "blende"
             }
           }
         ]
@@ -172,10 +172,17 @@
   },
   "active": "46b50028f1f2d31e",
   "lastOpenFiles": [
+    "blender/attachments/image.png",
+    "blender/blende.md",
+    "blender/attachments",
+    "attachments",
+    "swar",
+    "無題のフォルダ 1",
+    "無題のフォルダ",
+    "index.md",
     "raspi-init.md",
     "commit-message-guideline.md",
     "test.md",
-    "index.md",
     "obsidianの初期設定.md",
     "cmd/nmcli.md",
     "swarm/attachments/Pasted image 20251121001501.png",
@@ -205,10 +212,7 @@
     "群ロボット/Pasted image 20251121000726.png",
     "群ロボット",
     "attachments/Pasted image 20251121000945.png",
-    "attachments",
     "reload.md",
-    "無題のフォルダ 1",
-    "obsidianの初期設定",
     "Welcome.md"
   ]
 }

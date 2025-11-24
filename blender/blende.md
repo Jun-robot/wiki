@@ -2,15 +2,15 @@
 
 
 ## 単位を変える
-![alt text](image.png)
+![alt text](attachments/image.png)
 
 
 ## 3dprint tool box
 editからpreferencesを開く
-![alt text](image-1.png)
+![alt text](attachments/image-1.png)
 
 `n`を押して 「print」と出ていればOK
-![alt text](image-2.png)
+![alt text](attachments/image-2.png)
 
 
 立方体を選択した状態で`tab`を押して編集モードに入る
