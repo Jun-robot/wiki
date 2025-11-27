@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06db291641474861",
+        "id": "ae40fd532b52a520",
         "type": "tabs",
         "children": [
           {
-            "id": "46b50028f1f2d31e",
+            "id": "fb7166b1b2347058",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "toioの複数台連携.md",
+                "file": "G-coordinator/G-coordinator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "toioの複数台連携へのバックリンク"
+              "title": "G-coordinatorへのバックリンク"
             }
           },
           {
@@ -170,10 +170,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46b50028f1f2d31e",
+  "active": "fb7166b1b2347058",
   "lastOpenFiles": [
-    "blender/blende.md",
+    "G-coordinator/attachments/Pasted image 20251128031525.png",
     "G-coordinator/G-coordinator.md",
+    "G-coordinator/attachments",
+    "blender/blende.md",
     "blender/attachments/image.png",
     "blender/attachments",
     "attachments",
@@ -211,7 +213,6 @@
     "uv.md",
     "Pasted image 20251121001121.png",
     "群ロボット/Pasted image 20251121000726.png",
-    "群ロボット",
     "attachments/Pasted image 20251121000945.png",
     "reload.md",
     "Welcome.md"
