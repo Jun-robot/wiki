@@ -2,7 +2,6 @@
 # 環境構築
 [公式サイト](https://github.com/tomohiron907/G-coordinator/releases)からダウンロード
 
-
 ## 参考
 - [# G-coordinatorを使って編み込みノブを作ってみよう！](https://note.com/zaru_saru/n/n5f00d4fb596e)
 - [# 【pythonで動くG-codeビルダー】G-coordinatorユーザーのための3Dプリンターで前処理・後処理をG-codeで考察する](https://geek.tacoskingdom.com/blog/132)
