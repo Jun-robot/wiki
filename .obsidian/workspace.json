@@ -25,12 +25,14 @@
             "id": "686647e32cee0c75",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Venture/robotベンチャー調査.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "robotベンチャー調査"
             }
           }
         ],
@@ -185,6 +187,12 @@
   },
   "active": "686647e32cee0c75",
   "lastOpenFiles": [
+    "Venture/attachments/Thouzer_low_mini-E1-G-2048x679.png",
+    "Venture/robotベンチャー調査.md",
+    "Venture",
+    "Venture/attachments",
+    "swarm/toioの複数台連携.md",
+    "swarm/toioに使われている技術.md",
     "matlab/matlab-memo.md",
     "matlab/memo.md",
     "matlab",
@@ -194,10 +202,8 @@
     "blender/blende.md",
     "blender/attachments/image.png",
     "blender/attachments",
-    "attachments",
     "swar",
     "無題のフォルダ 1",
-    "無題のフォルダ",
     "index.md",
     "raspi-init.md",
     "commit-message-guideline.md",
@@ -207,8 +213,6 @@
     "swarm/attachments/Pasted image 20251121001501.png",
     "swarm/attachments/Pasted image 20251120234253.png",
     "swarm/群ロボットを使った情報提示.md",
-    "swarm/toioの複数台連携.md",
-    "swarm/toioに使われている技術.md",
     "swarm/attachments",
     "swarm",
     "cmd/uv.md",
@@ -228,8 +232,6 @@
     "uv.md",
     "Pasted image 20251121001121.png",
     "群ロボット/Pasted image 20251121000726.png",
-    "attachments/Pasted image 20251121000945.png",
-    "reload.md",
-    "Welcome.md"
+    "reload.md"
   ]
 }
