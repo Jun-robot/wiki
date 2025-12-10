@@ -18,4 +18,4 @@
 # ugo株式会社
 - [リンク](https://ugo.plus/products/ugo-pro/)
 - ugo pro
-- 
+-
