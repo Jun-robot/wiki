@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "sandbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "sandbox"
             }
           }
         ]
@@ -183,22 +183,22 @@
   },
   "active": "12ce81b2540977e1",
   "lastOpenFiles": [
-    "obsidianの初期設定.md",
-    "attachments/unnamed.webp",
+    "G-coordinator/G-coordinator.md",
     "sandbox.md",
     "swarm/toioの複数台連携.md",
-    "G-coordinator/G-coordinator.md",
+    "blender/blende.md",
+    "commit-message-guideline.md",
+    "index.md",
+    "obsidianの初期設定.md",
+    "attachments/unnamed.webp",
     "Venture/robotベンチャー調査.md",
     "thumbnails/resized/5313d3f54495e4e137bcf0100444698a_86cf658e.webp",
     "attachments",
-    "index.md",
-    "commit-message-guideline.md",
     "thumbnails/resized/cbf83253a920b13e5c18946b6fc0c7f9_86cf658e.webp",
     "thumbnails/resized/bdc1a0d552dbaa00c0ac1933a93eb087_86cf658e.webp",
     "thumbnails/resized/84f73e45269bdc3cb86524fc453540f0_86cf658e.webp",
     "thumbnails/resized/58e35810cf9bbc538ba012862a5db926_86cf658e.webp",
     "thumbnails/resized/1b0abe49cfccf0ca2022bf5dd2acafc4_86cf658e.webp",
-    "blender/blende.md",
     "無題のファイル 1.canvas",
     "無題のファイル.base",
     "無題のファイル.canvas",
