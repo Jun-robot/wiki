@@ -1,9 +1,9 @@
 ---
-feature: blender/attachments/image.png
-thumbnail: thumbnails/resized/cbf83253a920b13e5c18946b6fc0c7f9_86cf658e.webp
+feature: attachments/unnamed.webp
+thumbnail: thumbnails/resized/5313d3f54495e4e137bcf0100444698a_86cf658e.webp
 ---
 
-
+![](attachments/unnamed.webp)
 ## obsidianの設定
 
 ### 画像をvsodeでもプレビューできるようにする
