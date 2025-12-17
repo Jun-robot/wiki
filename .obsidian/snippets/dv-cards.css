@@ -2,10 +2,8 @@
 .dv-cards {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 14px;
-  
+  gap: 14px; 
 }
-
 
 /* Card */
 .dv-card {
@@ -67,3 +65,4 @@
   transform: translateY(-2px);
   box-shadow: var(--shadow-l);
 }
+
