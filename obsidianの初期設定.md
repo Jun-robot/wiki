@@ -2,6 +2,8 @@
 feature: blender/attachments/image.png
 thumbnail: thumbnails/resized/cbf83253a920b13e5c18946b6fc0c7f9_86cf658e.webp
 ---
+
+
 ## obsidianの設定
 
 ### 画像をvsodeでもプレビューできるようにする
