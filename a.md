@@ -11,10 +11,9 @@ FROM #toio
 
 ```dataview
 TABLE
-  featured AS サムネ,
-  file.link AS ノート
-FROM #
-SORT file.mtime DESC
+  featured,
+  file.link
+FROM ""
 ```
 
 
