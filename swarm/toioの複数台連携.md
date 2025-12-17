@@ -1,3 +1,7 @@
+---
+feature: swarm/attachments/Pasted image 20251121001501.png
+thumbnail: thumbnails/resized/84f73e45269bdc3cb86524fc453540f0_86cf658e.webp
+---
 #toio
 ## 先行事例
 #### 複数台のサーバー

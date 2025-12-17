@@ -25,17 +25,14 @@
             "id": "686647e32cee0c75",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "無題のファイル.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "a.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "無題のファイル"
+              "icon": "lucide-file",
+              "title": "a"
             }
           }
         ],
@@ -188,15 +185,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94d68ff849ae02be",
+  "active": "686647e32cee0c75",
   "lastOpenFiles": [
-    "swarm/toioの複数台連携.md",
     "無題のファイル.canvas",
-    "swarm/toioに使われている技術.md",
+    "a.md",
+    "thumbnails/resized/1b0abe49cfccf0ca2022bf5dd2acafc4_86cf658e.webp",
+    "thumbnails/resized/cbf83253a920b13e5c18946b6fc0c7f9_86cf658e.webp",
+    "thumbnails/resized/bdc1a0d552dbaa00c0ac1933a93eb087_86cf658e.webp",
+    "thumbnails/resized/84f73e45269bdc3cb86524fc453540f0_86cf658e.webp",
+    "Venture/robotベンチャー調査.md",
+    "thumbnails/resized",
+    "thumbnails",
+    "commit-message-guideline.md",
     "index.md",
     "obsidianの初期設定.md",
-    "commit-message-guideline.md",
-    "Venture/robotベンチャー調査.md",
+    "raspi-init.md",
+    "swarm/toioの複数台連携.md",
+    "swarm/toioに使われている技術.md",
     "Venture/attachments/Thouzer_low_mini-E1-G-2048x679.png",
     "Venture/attachments/top-ibis2-image.jpg",
     "Venture/無題のファイル.md",
@@ -213,28 +218,20 @@
     "blender/attachments",
     "swar",
     "無題のフォルダ 1",
-    "raspi-init.md",
     "test.md",
     "cmd/nmcli.md",
     "swarm/attachments/Pasted image 20251121001501.png",
     "swarm/attachments/Pasted image 20251120234253.png",
     "swarm/群ロボットを使った情報提示.md",
     "swarm/attachments",
-    "swarm",
     "cmd/uv.md",
     "群ロボット/toioに使われている技術.md",
     "cmd/git.md",
     "cmd/gh.md",
     "群ロボット/toioの複数台連携.md",
     "群ロボット/群ロボットを使った情報提示.md",
-    "群ロボット/attachments/Pasted image 20251120234253.png",
-    "群ロボット/Pasted image 20251120234233.png",
-    "群ロボット/attachments/Pasted image 20251121001501.png",
-    "群ロボット/attachments",
     "gh.md",
     "git.md",
-    "nmcli.md",
-    "uv.md",
-    "Pasted image 20251121001121.png"
+    "nmcli.md"
   ]
 }

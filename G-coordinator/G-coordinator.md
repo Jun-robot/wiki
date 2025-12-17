@@ -1,3 +1,7 @@
+---
+feature: G-coordinator/attachments/Pasted image 20251128031525.png
+thumbnail: thumbnails/resized/1b0abe49cfccf0ca2022bf5dd2acafc4_86cf658e.webp
+---
 
 # 環境構築
 [公式サイト](https://github.com/tomohiron907/G-coordinator/releases)からダウンロード
