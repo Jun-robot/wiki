@@ -50,39 +50,54 @@ dv.table(
 
 ```dataviewjs
 const pages = dv.pages("")
-  .where(p => p.thumbnail)
   .sort(p => p.file.mtime, "desc");
 
 function toSrc(thumbnail) {
-  let path = (typeof thumbnail === "string") ? thumbnail : thumbnail?.path;
-  if (!path) return "";
+  if (!thumbnail) return null;
 
-  if (path.startsWith("http://") || path.startsWith("https://") || path.startsWith("data:")) return path;
+  let path = (typeof thumbnail === "string") ? thumbnail : thumbnail?.path;
+  if (!path) return null;
+
+  if (path.startsWith("http://") || path.startsWith("https://") || path.startsWith("data:")) {
+    return path;
+  }
+
   if (path.startsWith("/")) path = path.slice(1);
 
   const af = app.vault.getAbstractFileByPath(path);
-  return af ? app.vault.getResourcePath(af) : "";
+  return af ? app.vault.getResourcePath(af) : null;
 }
 
 const root = dv.el("div", "", { cls: "dv-cards" });
 
 for (const p of pages) {
-  const card = root.createDiv({ cls: "dv-card" });
-
-  // 👇 ここが重要：クリックでノートを開く
-  card.onclick = () => {
-    app.workspace.openLinkText(p.file.path, "", false);
-  };
-
-  const imgWrap = card.createDiv({ cls: "dv-card-imgwrap" });
-  imgWrap.createEl("img", {
-    cls: "dv-card-img",
-    attr: { src: toSrc(p.thumbnail) }
+  const card = root.createDiv({
+    cls: "dv-card" + (p.thumbnail ? "" : " dv-card--noimg")
   });
 
+  // クリックでノートを開く（確実）
+  card.onclick = (e) => {
+    const newPane = e.metaKey || e.ctrlKey;
+    app.workspace.openLinkText(p.file.path, "", newPane);
+  };
+
+  const src = toSrc(p.thumbnail);
+
+  // ✅ サムネがある場合だけ画像エリアを作る
+  if (src) {
+    const imgWrap = card.createDiv({ cls: "dv-card-imgwrap" });
+    imgWrap.createEl("img", {
+      cls: "dv-card-img",
+      attr: { src }
+    });
+  }
+
+  // 本文（常に表示）
   const body = card.createDiv({ cls: "dv-card-body" });
   body.createDiv({ cls: "dv-card-title", text: p.file.name });
-}
 
+  // 任意：メタ情報
+  // body.createDiv({ cls: "dv-card-meta", text: p.file.mtime.toFormat("yyyy-LL-dd") });
+}
 
 ```
