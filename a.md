@@ -11,10 +11,8 @@ FROM #toio
 
 ```dataview
 TABLE
-  "![](" + thumbnail + ")" AS サムネ,
-  file.link AS ノート,
-  thumbnail AS a,
-  feature AS f
+  choice(thumbnail, "![](" + thumbnail + ")", "") AS サムネ,
+  file.link AS ノート
 FROM ""
 ```
 
