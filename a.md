@@ -11,8 +11,10 @@ FROM #toio
 
 ```dataview
 TABLE
-  featured,
-  file.link
+  "![](" + thumbnail + ")" AS サムネ,
+  file.link AS ノート,
+  thumbnail AS a,
+  feature AS f
 FROM ""
 ```
 
