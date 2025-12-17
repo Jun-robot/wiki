@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d8c7fc0b2d888c8",
+        "id": "bf7e827a6519e49e",
         "type": "tabs",
         "children": [
           {
-            "id": "b7bd9b5959801c69",
+            "id": "685b7f6cfdd79b83",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.50247192382812
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b529abf15be69dec",
@@ -150,13 +151,23 @@
               "icon": "lucide-list",
               "title": "toioの複数台連携のアウトライン"
             }
+          },
+          {
+            "id": "0aa42d6920fb2ba7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,11 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7bd9b5959801c69",
+  "active": "685b7f6cfdd79b83",
   "lastOpenFiles": [
+    "無題のファイル 2.canvas",
+    "無題のファイル.base",
+    "2025-12-17.md",
+    "無題のファイル 1.canvas",
+    "a.md",
     "commit-message-guideline.md",
     "G-coordinator/G-coordinator.md",
-    "a.md",
     "Venture/robotベンチャー調査.md",
     "無題のファイル.canvas",
     "obsidianの初期設定.md",
@@ -208,7 +223,6 @@
     "cmd/nmcli.md",
     "swarm/attachments/Pasted image 20251121001501.png",
     "swarm/attachments/Pasted image 20251120234253.png",
-    "swarm/attachments",
     "cmd/uv.md",
     "群ロボット/toioに使われている技術.md",
     "cmd/git.md",
@@ -216,7 +230,6 @@
     "群ロボット/toioの複数台連携.md",
     "群ロボット/群ロボットを使った情報提示.md",
     "gh.md",
-    "git.md",
-    "nmcli.md"
+    "git.md"
   ]
 }
