@@ -1,3 +1,7 @@
+---
+feature: Venture/attachments/Thouzer_low_mini-E1-G-2048x679.png
+thumbnail: thumbnails/resized/bdc1a0d552dbaa00c0ac1933a93eb087_86cf658e.webp
+---
 
 # Doog
 - [リンク](https://doog-inc.com)
