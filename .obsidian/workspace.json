@@ -25,14 +25,17 @@
             "id": "686647e32cee0c75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Venture/robotベンチャー調査.md",
-                "mode": "source",
-                "source": false
+                "file": "無題のファイル.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "robotベンチャー調査"
+              "icon": "lucide-layout-dashboard",
+              "title": "無題のファイル"
             }
           }
         ],
@@ -185,16 +188,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "686647e32cee0c75",
+  "active": "94d68ff849ae02be",
   "lastOpenFiles": [
-    "Venture/無題のファイル.md",
+    "swarm/toioの複数台連携.md",
+    "無題のファイル.canvas",
+    "swarm/toioに使われている技術.md",
+    "index.md",
+    "obsidianの初期設定.md",
+    "commit-message-guideline.md",
     "Venture/robotベンチャー調査.md",
-    "Venture/attachments/top-ibis2-image.jpg",
     "Venture/attachments/Thouzer_low_mini-E1-G-2048x679.png",
+    "Venture/attachments/top-ibis2-image.jpg",
+    "Venture/無題のファイル.md",
     "Venture",
     "Venture/attachments",
-    "swarm/toioの複数台連携.md",
-    "swarm/toioに使われている技術.md",
     "matlab/matlab-memo.md",
     "matlab/memo.md",
     "matlab",
@@ -206,11 +213,8 @@
     "blender/attachments",
     "swar",
     "無題のフォルダ 1",
-    "index.md",
     "raspi-init.md",
-    "commit-message-guideline.md",
     "test.md",
-    "obsidianの初期設定.md",
     "cmd/nmcli.md",
     "swarm/attachments/Pasted image 20251121001501.png",
     "swarm/attachments/Pasted image 20251120234253.png",
@@ -221,7 +225,6 @@
     "群ロボット/toioに使われている技術.md",
     "cmd/git.md",
     "cmd/gh.md",
-    "無題のファイル.canvas",
     "群ロボット/toioの複数台連携.md",
     "群ロボット/群ロボットを使った情報提示.md",
     "群ロボット/attachments/Pasted image 20251120234253.png",
@@ -232,7 +235,6 @@
     "git.md",
     "nmcli.md",
     "uv.md",
-    "Pasted image 20251121001121.png",
-    "reload.md"
+    "Pasted image 20251121001121.png"
   ]
 }
