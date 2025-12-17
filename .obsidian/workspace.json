@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidianの初期設定.md",
+                "file": "sandbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidianの初期設定"
+              "title": "sandbox"
             }
           }
         ]
@@ -183,6 +183,10 @@
   },
   "active": "12ce81b2540977e1",
   "lastOpenFiles": [
+    "attachments/unnamed.webp",
+    "obsidianの初期設定.md",
+    "thumbnails/resized/5313d3f54495e4e137bcf0100444698a_86cf658e.webp",
+    "attachments",
     "index.md",
     "commit-message-guideline.md",
     "thumbnails/resized/cbf83253a920b13e5c18946b6fc0c7f9_86cf658e.webp",
@@ -190,8 +194,7 @@
     "thumbnails/resized/84f73e45269bdc3cb86524fc453540f0_86cf658e.webp",
     "thumbnails/resized/58e35810cf9bbc538ba012862a5db926_86cf658e.webp",
     "thumbnails/resized/1b0abe49cfccf0ca2022bf5dd2acafc4_86cf658e.webp",
-    "obsidianの初期設定.md",
-    "a.md",
+    "sandbox.md",
     "blender/blende.md",
     "無題のファイル 1.canvas",
     "無題のファイル.base",
@@ -216,13 +219,10 @@
     "matlab",
     "G-coordinator/attachments/Pasted image 20251128031525.png",
     "G-coordinator/attachments",
-    "blender/attachments/image.png",
     "blender/attachments",
     "swar",
-    "無題のフォルダ 1",
     "test.md",
     "cmd/nmcli.md",
-    "swarm/attachments/Pasted image 20251121001501.png",
     "cmd/uv.md",
     "群ロボット/toioに使われている技術.md",
     "cmd/git.md",
