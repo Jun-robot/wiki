@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b529abf15be69dec",
@@ -167,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +183,7 @@
   },
   "active": "685b7f6cfdd79b83",
   "lastOpenFiles": [
+    "thumbnails/resized/58e35810cf9bbc538ba012862a5db926_86cf658e.webp",
     "無題のファイル 2.canvas",
     "無題のファイル.base",
     "2025-12-17.md",
