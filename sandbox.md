@@ -68,12 +68,12 @@ function toSrc(thumbnail) {
   return af ? app.vault.getResourcePath(af) : null;
 }
 
-const root = dv.el("div", "", { cls: "dv-cards" });
+const root = dv.container.createDiv({ cls: "dv-cards" }); // ← dv.el ではなく container
+
 
 for (const p of pages) {
-  const card = root.createDiv({
-    cls: "dv-card" + (p.thumbnail ? "" : " dv-card--noimg")
-  });
+  const card = root.createDiv({ cls: "dv-card" });
+
 
   // クリックでノートを開く（確実）
   card.onclick = (e) => {
