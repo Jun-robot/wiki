@@ -16,3 +16,5 @@ thumbnail: thumbnails/resized/cbf83253a920b13e5c18946b6fc0c7f9_86cf658e.webp
 #### git
 - 今度書く
 #### Featured image
+
+#### Data View
