@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "お勉強/Google Machine Learning.md",
+                "file": "お勉強/機械学習集中講座 - GoogleMachineLearning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Machine Learning"
+              "title": "機械学習集中講座 - GoogleMachineLearning"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "12ce81b2540977e1",
   "lastOpenFiles": [
+    "お勉強/機械学習の概要 - Google Machine Learning.md",
+    "お勉強/機械学習集中講座 - GoogleMachineLearning.md",
     "astro/astro.md",
-    "お勉強/Google Machine Learning.md",
     "お勉強",
     "無題のファイル.md",
     "attachments/unnamed.webp",
@@ -232,7 +233,6 @@
     "blender/attachments",
     "test.md",
     "群ロボット/toioに使われている技術.md",
-    "群ロボット/toioの複数台連携.md",
-    "群ロボット/群ロボットを使った情報提示.md"
+    "群ロボット/toioの複数台連携.md"
   ]
 }
