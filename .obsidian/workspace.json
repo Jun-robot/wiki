@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sandbox.md",
+                "file": "swarm/toioに使われている技術.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sandbox"
+              "title": "toioに使われている技術"
             }
           }
         ]
@@ -183,10 +183,12 @@
   },
   "active": "12ce81b2540977e1",
   "lastOpenFiles": [
-    "obsidianの初期設定.md",
-    "sandbox.md",
-    "G-coordinator/G-coordinator.md",
+    "swarm/群ロボットを使った情報提示.md",
     "swarm/toioの複数台連携.md",
+    "swarm/toioに使われている技術.md",
+    "sandbox.md",
+    "obsidianの初期設定.md",
+    "G-coordinator/G-coordinator.md",
     "blender/blende.md",
     "commit-message-guideline.md",
     "index.md",
@@ -204,11 +206,9 @@
     "無題のファイル.canvas",
     "無題のファイル 2.canvas",
     "2025-12-17.md",
-    "swarm/群ロボットを使った情報提示.md",
     "raspi-init.md",
     "thumbnails/resized",
     "thumbnails",
-    "swarm/toioに使われている技術.md",
     "Venture/attachments/Thouzer_low_mini-E1-G-2048x679.png",
     "Venture/attachments/top-ibis2-image.jpg",
     "Venture/無題のファイル.md",
