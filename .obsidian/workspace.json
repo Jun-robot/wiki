@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "swarm/toioに使われている技術.md",
+                "file": "お勉強/Google Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toioに使われている技術"
+              "title": "Google Machine Learning"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "ファイルエクスプローラ"
@@ -171,42 +173,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新規ベースを作成": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "12ce81b2540977e1",
   "lastOpenFiles": [
+    "astro/astro.md",
+    "お勉強/Google Machine Learning.md",
+    "お勉強",
+    "無題のファイル.md",
+    "attachments/unnamed.webp",
+    "blender/blende.md",
+    "cmd/uv.md",
+    "cmd/nmcli.md",
+    "cmd/git.md",
+    "cmd/gh.md",
+    "G-coordinator/G-coordinator.md",
+    "matlab/matlab-memo.md",
     "swarm/群ロボットを使った情報提示.md",
     "swarm/toioの複数台連携.md",
     "swarm/toioに使われている技術.md",
-    "sandbox.md",
     "obsidianの初期設定.md",
-    "G-coordinator/G-coordinator.md",
-    "blender/blende.md",
-    "commit-message-guideline.md",
+    "sandbox.md",
+    "raspi-init.md",
     "index.md",
-    "attachments/unnamed.webp",
+    "commit-message-guideline.md",
     "Venture/robotベンチャー調査.md",
     "thumbnails/resized/5313d3f54495e4e137bcf0100444698a_86cf658e.webp",
-    "attachments",
-    "thumbnails/resized/cbf83253a920b13e5c18946b6fc0c7f9_86cf658e.webp",
-    "thumbnails/resized/bdc1a0d552dbaa00c0ac1933a93eb087_86cf658e.webp",
     "thumbnails/resized/84f73e45269bdc3cb86524fc453540f0_86cf658e.webp",
     "thumbnails/resized/58e35810cf9bbc538ba012862a5db926_86cf658e.webp",
     "thumbnails/resized/1b0abe49cfccf0ca2022bf5dd2acafc4_86cf658e.webp",
+    "attachments",
+    "thumbnails/resized/cbf83253a920b13e5c18946b6fc0c7f9_86cf658e.webp",
+    "thumbnails/resized/bdc1a0d552dbaa00c0ac1933a93eb087_86cf658e.webp",
     "無題のファイル 1.canvas",
     "無題のファイル.base",
     "無題のファイル.canvas",
     "無題のファイル 2.canvas",
     "2025-12-17.md",
-    "raspi-init.md",
     "thumbnails/resized",
     "thumbnails",
     "Venture/attachments/Thouzer_low_mini-E1-G-2048x679.png",
@@ -214,22 +225,14 @@
     "Venture/無題のファイル.md",
     "Venture",
     "Venture/attachments",
-    "matlab/matlab-memo.md",
     "matlab/memo.md",
     "matlab",
     "G-coordinator/attachments/Pasted image 20251128031525.png",
     "G-coordinator/attachments",
     "blender/attachments",
-    "swar",
     "test.md",
-    "cmd/nmcli.md",
-    "cmd/uv.md",
     "群ロボット/toioに使われている技術.md",
-    "cmd/git.md",
-    "cmd/gh.md",
     "群ロボット/toioの複数台連携.md",
-    "群ロボット/群ロボットを使った情報提示.md",
-    "gh.md",
-    "git.md"
+    "群ロボット/群ロボットを使った情報提示.md"
   ]
 }
