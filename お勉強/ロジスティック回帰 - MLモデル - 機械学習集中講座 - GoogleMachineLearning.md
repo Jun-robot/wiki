@@ -15,4 +15,15 @@ https://developers.google.com/machine-learning/crash-course/logistic-regression?
     - そのまま
         - `0.932`
     - バイナリカテゴリ
-        - `True`, `False`, `Sp`
+        - `True`, `False`, `Spam`
+        - 分類タスクになる。
+- シグモイド関数
+    - sigmoid: S字型
+    - $f(x)=\frac{1}{1+e^{-x}}$
+    - 0~1の値を保証できる
+    - 0や1に近づくが、達することはない
+
+損失と正則化
+- 二乗損失ではなく、対数損失を使う
+- 過学習を防ぐため、正則化を適応する
+-
