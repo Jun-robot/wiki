@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "お勉強/機械学習集中講座 - GoogleMachineLearning 1.md",
+                "file": "お勉強/線形回帰 - MLモデル - 機械学習集中講座 - GoogleMachineLearning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "機械学習集中講座 - GoogleMachineLearning 1"
+              "title": "線形回帰 - MLモデル - 機械学習集中講座 - GoogleMachineLearning"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "12ce81b2540977e1",
   "lastOpenFiles": [
+    "お勉強/ロジスティック回帰 - MLモデル - 機械学習集中講座 - GoogleMachineLearning.md",
     "お勉強/線形回帰 - MLモデル - 機械学習集中講座 - GoogleMachineLearning.md",
-    "お勉強/機械学習集中講座 - GoogleMachineLearning 1.md",
     "お勉強/機械学習の概要 - Google Machine Learning.md",
     "astro/astro.md",
     "お勉強",
