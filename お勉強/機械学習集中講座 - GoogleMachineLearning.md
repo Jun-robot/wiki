@@ -1,11 +1,31 @@
 
 Numpy入門 [リンク](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/numpy_ultraquick_tutorial.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=mlcc-prework&hl=ja#scrollTo=7chgYKrC93np)
-- Linear Datasetを作る
+- **Linear Datasetを作る**
 - ``` python
-  feature = np.arange(6, 21)
-  print(feature)
-  label = (feature * 3) + 4
+    feature = np.arange(6, 21)
+    print(feature)
+    label = (feature * 3) + 4
+    print(label)
+    ``` 
+
+- ```output
+    [ 6  7  8  9 10 11 12 13 14 15 16 17 18 19 20]
+    [22 25 28 31 34 37 40 43 46 49 52 55 58 61 64]
+    ```
+
+- **Add Noise**
+- ```python
+  noise = np.random.random([15]) * 4 - 2
+  print(noise)
+  label = label + noise
   print(label)
   ```
-  
 
+- ```output
+  [ 0.81884999 -1.79354715 -0.26481771  1.88115039  0.14879403  0.15454527
+  1.69542393  0.32921209 -1.74477804 -1.141752    0.03896898 -0.68137445
+ -0.38930163  1.41374612 -0.70017912]
+[22.81884999 23.20645285 27.73518229 32.88115039 34.14879403 37.15454527
+ 41.69542393 43.32921209 44.25522196 47.858248   52.03896898 54.31862555
+ 57.61069837 62.41374612 63.29982088]
+  ```
