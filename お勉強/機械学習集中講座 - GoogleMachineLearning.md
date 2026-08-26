@@ -37,4 +37,28 @@
 
 - DataFrames
     - pandas APIの中心的なデータフレームらしい
-- 
+
+**表の作り方**
+- ```python
+  my_data = np.random.randint(low=0, high=101, size=(3, 4))
+  my_column_names = ['Eleanor', 'Chidi', 'Tahani', 'Jason']
+  my_dataframe = pd.DataFrame(data=my_data, columns=my_column_names)
+  print(my_dataframe)
+  print(my_dataframe['Eleanor'][1])
+  my_dataframe['Hanet'] = my_dataframe['Tahani'] + my_dataframe['Jason']
+  print(my_dataframe)
+  ```
+
+- ```output
+    Eleanor Chidi Tahani Jason 
+    0 74 46 44 8 
+    1 43 21 58 60 
+    2 94 26 2 2 
+    
+    43 
+    
+    Eleanor Chidi Tahani Jason Hanet 
+    0 74 46 44 8 52 
+    1 43 21 58 60 118 
+    2 94 26 2 2 4
+  ```
