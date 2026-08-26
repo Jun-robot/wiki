@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "56335f35a33c7071",
+        "id": "09e9b3d01f6b6d90",
         "type": "tabs",
         "children": [
           {
-            "id": "12ce81b2540977e1",
+            "id": "4c40495cb60b3d24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "お勉強/線形回帰 - MLモデル - 機械学習集中講座 - GoogleMachineLearning.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "線形回帰 - MLモデル - 機械学習集中講座 - GoogleMachineLearning"
+              "title": "新規タブ"
             }
           }
         ]
@@ -183,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12ce81b2540977e1",
+  "active": "94d68ff849ae02be",
   "lastOpenFiles": [
-    "お勉強/ロジスティック回帰 - MLモデル - 機械学習集中講座 - GoogleMachineLearning.md",
+    "sony.md",
     "お勉強/線形回帰 - MLモデル - 機械学習集中講座 - GoogleMachineLearning.md",
+    "お勉強/ロジスティック回帰 - MLモデル - 機械学習集中講座 - GoogleMachineLearning.md",
     "お勉強/機械学習の概要 - Google Machine Learning.md",
     "astro/astro.md",
     "お勉強",
@@ -232,7 +229,6 @@
     "G-coordinator/attachments/Pasted image 20251128031525.png",
     "G-coordinator/attachments",
     "blender/attachments",
-    "test.md",
-    "群ロボット/toioに使われている技術.md"
+    "test.md"
   ]
 }
