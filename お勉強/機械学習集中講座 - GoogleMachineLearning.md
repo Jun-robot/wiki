@@ -68,7 +68,15 @@
 ## 線形回帰
 
 線形回帰
+- 基本のモデルの式
+    - $y^\prime = b + w_1x_1$
+        - $b$: bias
+        - $w$: weight
+        - $y^\prime$: Prediction
+        - $x$: Feature value
+        - トレーニングではbとwを更新する
+- 複数の特徴量を持たせることもできる
+    - $y^\prime = b+w_1x_1+w_2x_2+w_3x_3$
 
-- $y^= b + w_1x_1$
-  
-  
+損失
+- 
