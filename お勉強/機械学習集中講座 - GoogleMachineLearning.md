@@ -1,6 +1,9 @@
 
-Numpy入門 [リンク](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/numpy_ultraquick_tutorial.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=mlcc-prework&hl=ja#scrollTo=7chgYKrC93np)
-- **Linear Datasetを作る**
+## Numpy入門 [リンク](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/numpy_ultraquick_tutorial.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=mlcc-prework&hl=ja#scrollTo=7chgYKrC93np)
+
+行列計算をやってくれるライブラリ
+
+**Linear Datasetを作る**
 - ``` python
     feature = np.arange(6, 21)
     print(feature)
@@ -13,7 +16,7 @@ Numpy入門 [リンク](https://colab.research.google.com/github/google/eng-edu/
     [22 25 28 31 34 37 40 43 46 49 52 55 58 61 64]
     ```
 
-- **Add Noise**
+**Add Noise**
 - ```python
   noise = np.random.random([15]) * 4 - 2
   print(noise)
@@ -29,3 +32,9 @@ Numpy入門 [リンク](https://colab.research.google.com/github/google/eng-edu/
  41.69542393 43.32921209 44.25522196 47.858248   52.03896898 54.31862555
  57.61069837 62.41374612 63.29982088]
   ```
+
+## Pandas
+
+- DataFrames
+    - pandas APIの中心的なデータフレームらしい
+- 
