@@ -38,5 +38,11 @@ https://developers.google.com/machine-learning/crash-course/logistic-regression?
         - $\mathrm{LogLoss}=-\frac{1}{N}\sum_{i=1}^{N}\left[y_i\log(y\prime_i)+(1-y_i)\log(1-y^\prime_i)\right]$
         - $N$: データーセットのラベル付きのexampleの数
         - $i$: データーセット内のexampleのインデックス
-        - $y_i$: $i$番目の列のラベル。ロジスティック回帰なので0または1
-        - $y\prime_i$: 
+        - $y_i$: $i$番目の列のラベル。ロジスティック回帰なので0または1(迷惑メールか違うか)
+        - $y\prime_i$: $x_i$のFeatureのセットが与えられた時のモデルの予測(0~1)
+- 正則化
+    - モデルに多数の特徴量があると損失が0に近づき続ける
+    - 2つある
+        - L2正則化
+        - 早期停止
+
