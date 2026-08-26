@@ -35,4 +35,8 @@ https://developers.google.com/machine-learning/crash-course/logistic-regression?
         - 逆にx=5だとy=0.993, x=6 y=0.997となる
             - 二乗損失を使うと、多くのメモリが必要になる
     - LogLoss
-        - $$LogLoss = -\frac{1}{N}\sum{N}{}$$
+        - $\mathrm{LogLoss}=-\frac{1}{N}\sum_{i=1}^{N}\left[y_i\log(y\prime_i)+(1-y_i)\log(1-y^\prime_i)\right]$
+        - $N$: データーセットのラベル付きのexampleの数
+        - $i$: データーセット内のexampleのインデックス
+        - $y_i$: $i$番目の列のラベル。ロジスティック回帰なので0または1
+        - $y\prime_i$: 
