@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "お勉強/分類 - MLモデル - 機械学習集中講座 - GoogleMachineLearning.md",
+                "file": "swarm/toioに使われている技術.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分類 - MLモデル - 機械学習集中講座 - GoogleMachineLearning"
+              "title": "toioに使われている技術"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "4c40495cb60b3d24",
   "lastOpenFiles": [
-    "お勉強/ロジスティック回帰 - MLモデル - 機械学習集中講座 - GoogleMachineLearning.md",
+    "swarm/群ロボットを使った情報提示.md",
+    "swarm/toioの複数台連携.md",
+    "swarm/toioに使われている技術.md",
     "お勉強/分類 - MLモデル - 機械学習集中講座 - GoogleMachineLearning.md",
+    "お勉強/ロジスティック回帰 - MLモデル - 機械学習集中講座 - GoogleMachineLearning.md",
     "お勉強/機械学習の概要 - Google Machine Learning.md",
     "お勉強/線形回帰 - MLモデル - 機械学習集中講座 - GoogleMachineLearning.md",
     "sony.md",
@@ -201,9 +204,6 @@
     "cmd/gh.md",
     "G-coordinator/G-coordinator.md",
     "matlab/matlab-memo.md",
-    "swarm/群ロボットを使った情報提示.md",
-    "swarm/toioの複数台連携.md",
-    "swarm/toioに使われている技術.md",
     "obsidianの初期設定.md",
     "sandbox.md",
     "raspi-init.md",
