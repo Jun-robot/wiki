@@ -10,7 +10,10 @@ https://developers.google.com/machine-learning/crash-course/classification?hl=ja
 
 混合行列
 - 4つの出力
-    - | 実際 ＼ 予測 | 陽性 | 陰性 |
-|---|---:|---:|
-| **陽性** | TP（真陽性） | FN（偽陰性） |
-| **陰性** | FP（偽陽性） | TN（真陰性） |
+
+| 実際 ＼ 予測 |      陽性 |      陰性 |
+| ------- | ------: | ------: |
+| **陽性**  | TP（真陽性） | FN（偽陰性） |
+| **陰性**  | FP（偽陽性） | TN（真陰性） |
+
+fdさ
